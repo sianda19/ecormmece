@@ -15,7 +15,7 @@
 
 1. Clone the repo: `git clone https://github.com/T4533N/react-ecommerce.git`
 2. Install dependencies: `cd react-ecommerce && yarn`
-3. Fill in `.env` file taking keys from Auth0 and Stripe. See `.env.example`. 
+3. Create and fill in `.env` file taking keys from Auth0 and Stripe. See `.env.example`. 
 4. Run the development server: `yarn start`
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
